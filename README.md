@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Tina65sp
 - 👀 I’m interested in learning code
+  -  ha, GPT exist
 - 🌱 I’m currently learning HTML then Javascript
+  -  kinda
 - 💞️ I’m looking to collaborate on learning from everyone, tips, tricks, you even weird facts.
+    -  always
 - 📫 How to reach me here somewhere?...
 
 <!---
